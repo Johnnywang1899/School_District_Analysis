@@ -38,3 +38,5 @@ As shown in the image comparison below, for school type "Charter", "% Passing Ma
 
 
 ## Summary
+In conclusion, through the updated school distric analysis after reading and math scores for the ninth grade at Thomas High School have been taken out, it can be noticed that all the categories that are relevant to Thomas High School will be affected. The four major changes are shown in "Math and reading scores by grade", "Scores by school spending" "Scores by school size" and"Scores by school type" in the sections including "% Passing Math", "% Passing Reading" and "% Overall Passing". All sections have dropped by several percentage which are mentiened in detail shown in the analysis above.  
+
