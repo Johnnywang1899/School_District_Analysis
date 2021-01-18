@@ -4,11 +4,12 @@ Based on the previous analysis of school performance, there exists evidence show
 ## Results
 ### How is the district summary affected?
 As the images are shown below, the "Average Math Score", "% Passing Math", "% Passing Reading" and "% Overall Passing" sections have been affected. "Average Math Score" and "% Passing Math" decrease by 0.1% and 0.2% respectively. "% Passing Reading" and "% Overall Passing" drops by around 0.1% and 0.3% respectively.  
+  
 ![original_district_summary.png](image/original_district_summary.PNG)  
 ![district_summary.png](image/district_summary.PNG)  
 
 ### How is the school summary affected?
-As indicated in the images below, the "% Passing Math", "% Passing Reading" and "% Overall Passing" all have a significant drop (around 30%) compared to the data before making the ninth-year grades to NaN.  
+As indicated in the images below, for Thomas High School row, the "% Passing Math", "% Passing Reading" and "% Overall Passing" all have a significant drop (around 30%) compared to the data before making the ninth-year grades to NaN. Other items including "Average Math Score" and "Average Reading Score" observe a slight change at around 0.05. The data for other schools don't get affected.
 ![original_school_summary.png](image/original_school_summary.PNG)
 ![school_summary_png](image/school_summary.PNG)  
 
@@ -39,5 +40,5 @@ As shown in the image comparison below, for school type "Charter", "% Passing Ma
 ![school_type.PNG](image/school_type.PNG)  
 
 ## Summary
-In conclusion, through the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been taken out, it can be noticed that all the categories that are relevant to Thomas High School will be affected. The four major changes are shown in "Math and reading scores by grade", "Scores by school spending" "Scores by school size" and"Scores by school type" in the sections including "% Passing Math", "% Passing Reading" and "% Overall Passing". All sections have dropped by several percentages which are mentioned in detail shown in the analysis above.  
+In conclusion, through the updated school district analysis after reading and math scores for the ninth grade at Thomas High School being taken out, it can be noticed that all the categories that are relevant to Thomas High School will be affected. The four major changes are shown in "Math and reading scores by grade", "Scores by school spending", "Scores by school size" and"Scores by school type" in the sections including "% Passing Math", "% Passing Reading" and "% Overall Passing". All sections have dropped by several percentages which are mentioned in detail shown in the analysis above.  
 
